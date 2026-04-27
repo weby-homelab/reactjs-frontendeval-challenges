@@ -70,3 +70,18 @@ No heavy libraries — pure React logic practice.
 ## 🚀 How to Run Any Project
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/abressiddique/REACTJS-FRONTENDEVAL-CHALLENGES.git
+   ```
+2. Navigate into the specific challenge folder:
+   ```bash
+   cd reactjs-frontendeval-challenges/folder-name
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
